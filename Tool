@@ -1,0 +1,7 @@
+<html>
+ <s>My name is rutuja</s>
+  <s>My name is rutu</s>
+   <s>My name is sidhu</s>
+    <s>My name is vedu</s>
+     <s>My name is rushi</s>
+     </html>
